@@ -3,21 +3,18 @@
 Our application “Start Here” is built with the primary intention of **encouraging entrepreneurship among the youth of Sri Lanka through the growth of working spaces**.
 The key features of this application will be;
 
-1.Platform to advertise job opportunities to look for passionate and skilled individuals.
+1. Platform to advertise job opportunities to look for passionate and skilled individuals.
 
-2.Opportunity to attract new clients and retain existing ones.
+2. Opportunity to attract new clients and retain existing ones.
 
-3.Platform to find curious, risk taking investors investors and better fundings.
+3. Platform to find curious, risk taking investors and better fundings.
 ![start-here](src/assets/starthere.png)
 
 # UI Mockups
-| Splash Screen | Sign-Up | Sign-In | Home Page |
+| Sign-Up | Sign-In | Home Page | About-us |
 |:-:|:-:|:-:|:-:|
-| ![Splash screen](docs/imgs/mockups/8.png) | ![sign-up screen](docs/imgs/mockups/1.png) | ![sign-in screen](docs/imgs/mockups/2.png) | ![welcome screen](docs/imgs/mockups/3.png) |
+| ![sign-up screen](src/mockups/4.png) | ![sign-in screen](src/mockups/5.png) | ![home-page screen](src/mockups/1.png) | ![about-us screen](src/mockups/2.png) |
 
-| My-Profile | Settings | About-us | Donate to a cause |
-|:-:|:-:|:-:|:-:|
-| ![my-profile screen](docs/imgs/mockups/4.png) | ![settings screen](docs/imgs/mockups/5.png) | ![about-us screen](docs/imgs/mockups/6.png) | ![donation screen](docs/imgs/mockups/7.png) |
 
 ## Demo
 https://starthereapp.herokuapp.com/ 
@@ -66,3 +63,16 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Team
+
+- [Nandula Perera](https://https://www.linkedin.com/in/nandulaperera/) 
+  - @nandulaperera
+- [Dilan Perera](https://https://www.linkedin.com/in/dilan-perera-b89a23190/) 
+  - @rdperera
+- [George Raveen](https://https://www.linkedin.com/in/george-raveen-a998129b/) 
+  - @georgeraveen
+- [Lakshan Sandaruwan](https://https://www.linkedin.com/in/lakshan-sandaruwan-199100165/) 
+  - @sandaruwan98
+- [Maheshi Yatipansalawa](https://https://www.linkedin.com/in/maheshi-yatipansalawa-a28155199/)
+  - @Maheshiky
